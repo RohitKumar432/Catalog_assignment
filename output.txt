@@ -1,0 +1,2 @@
+The constant term (secret) for test case 1 is: 3
+The constant term (secret) for test case 2 is: 1567
